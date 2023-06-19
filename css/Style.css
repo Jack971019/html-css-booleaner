@@ -2,6 +2,22 @@
     color:red;
 }
 
-div{
+#boolear{
     background-color: aqua;
+}
+
+#adjust-line-height{
+    line-height: 0em;
+}
+
+.blank-space{
+    color:white;
+}
+
+#adjust-space{
+    line-height: 0em;
+}
+
+#space-between{
+    line-height: 0em;
 }
