@@ -21,3 +21,23 @@
 #space-between{
     line-height: 0em;
 }
+
+#center{
+    text-align: center;
+}
+
+#footer-color{
+    background-color: blue;
+}
+
+#color{
+    color: antiquewhite;
+}
+
+h1{
+    font-size: 40px;
+}
+
+#words-color{
+    color: white;
+}
