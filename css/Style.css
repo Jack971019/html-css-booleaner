@@ -14,13 +14,6 @@
     color:white;
 }
 
-#adjust-space{
-    line-height: 0em;
-}
-
-#space-between{
-    line-height: 0em;
-}
 
 #center{
     text-align: center;
@@ -40,4 +33,8 @@ h1{
 
 #words-color{
     color: white;
+}
+
+#adjust-space{
+    line-height: 0em;
 }
